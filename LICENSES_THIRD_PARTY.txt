@@ -1,0 +1,16 @@
+3rd party licenses
+
+This package uses the following third-party packages:
+
+PSF License (https://opensource.org/license/python-2-0):
+  * python - https://docs.python.org/3/license.html
+  * argparse - https://github.com/bewest/argparse/blob/master/LICENSE.txt
+  * matplotlib - https://github.com/matplotlib/matplotlib/blob/main/LICENSE/LICENSE
+
+BSD License (http://www.opensource.org/licenses/BSD-3-Clause)
+  * pandas - https://github.com/pandas-dev/pandas/blob/main/LICENSE
+
+MIT License (https://opensource.org/license/MIT)
+  * SHUtil - https://github.com/chengaojian/SHUtil/blob/master/LICENSE
+
+
