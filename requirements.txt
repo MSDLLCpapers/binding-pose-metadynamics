@@ -161,7 +161,7 @@ py==1.9.0
 py-cpu==0.1.2
 py4j==0.10.8.1
 pyarrow==11.0.0.dev0+gf10f5cf.d20231116
-pyasn1==0.4.4
+pyasn1==0.6.5
 pybind11==2.4.3
 pycparser==2.19
 pydantic==1.7.3
