@@ -137,7 +137,7 @@ palettable==3.1.1
 pandas==1.4.0
 pandas-flavor==0.2.0
 pandocfilters==1.4.3
-paramiko==2.7.2
+paramiko==5.0.0
 parso==0.7.0
 path.py==8.1.2
 pathlib2==2.2.1
