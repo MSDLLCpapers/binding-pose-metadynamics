@@ -28,7 +28,7 @@ bleach==2.0.0
 bootstrapped==0.0.2
 botorch==0.2.1
 captum==0.4.1
-certifi==2019.9.11
+certifi==2026.10.19
 cffi==1.14.5
 chardet==3.0.4
 charset-normalizer==2.1.1
