@@ -118,7 +118,7 @@ more-itertools==9.0.0
 mpmath==1.1.0
 multidict==6.0.2
 nbclient==0.5.1
-nbconvert==6.0.7
+nbconvert==7.17.2
 nbformat==5.0.8
 nest-asyncio==1.4.3
 networkx==2.5.1
