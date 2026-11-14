@@ -227,7 +227,7 @@ toml==0.10.1
 torch==2.0.0
 torch-geometric==2.3.0
 torchsani @ file:///scr/buildbot/src/torchSANI/dist/torchsani-120-py3-none-any.whl
-tornado==6.1
+tornado==6.6.1
 TPOT==0.11.7
 tqdm==4.48.0
 traitlets==5.0.5
